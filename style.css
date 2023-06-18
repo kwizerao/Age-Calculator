@@ -100,10 +100,10 @@
 .input-box input{
     flex: 0;
     margin-right: 10px;
-    padding: 9px 25px;
+    padding: 9px 50px;
     border: 0;
     outline: 0;
-    font-size: 8px;
+    font-size: 14px;
     border-radius: 10px;
     position: relative;
 }
@@ -111,7 +111,7 @@
     background: #fff;
     border: 0;
     outline: 0;
-    padding: 10px 25px;
+    padding: 9px 5px;
     border-radius: 15px;
     margin-right: 0;
     margin-left: 40px;
